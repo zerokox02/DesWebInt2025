@@ -23,5 +23,5 @@ xhist = np.random.normal(170, 10, 250)
 plt.hist(xhist)
 
 
-
+# 
 plt.show()
