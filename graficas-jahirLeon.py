@@ -7,6 +7,8 @@ import numpy as np
 #x = np.array(["A","B","C","D"])
 #y = np.array([3,8,1,10])
 
+
+
 xhist = np.random.normal(170, 10, 250)
 
 #Grafica lineas
