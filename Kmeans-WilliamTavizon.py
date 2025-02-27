@@ -19,3 +19,4 @@ print("Predicted class is : ", prediction[0])
 
 plt.scatter(x, y, c=kmeans.labels_ + prediction[0])
 plt.show()
+
