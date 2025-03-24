@@ -1,4 +1,0 @@
-comandos para Git
-
-git commit -m 'agregando graficas'
-git push origin main
